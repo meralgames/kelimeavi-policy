@@ -15,6 +15,6 @@ Kelime Avı uygulaması için gizlilik politikası
     <li>Kullanıcı bilgileri üçüncü şahıslarla paylaşılmaz.</li>
     <li>Uygulama KVKK ve GDPR kurallarına uygundur.</li>
   </ul>
-  <p>İletişim: info@meralgames.com</p>
+  <p>İletişim: meralgamess@gmail.com</p>
 </body>
 </html>
